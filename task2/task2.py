@@ -20,7 +20,7 @@ for instance, frame1 in ins:
         else:
             leg.append(str(l[0]))
 
-        (frame2.groupby("horizon")["REG"]).mean().plot(
+        (frame2.groupby("horizon")["REG"]).apply(lambda x: x.sample(n=50).mean()).plot(
             kind="line", legend=True)
 
     plt.title("Instance {} - both in log scales".format(count))
