@@ -5,7 +5,7 @@ data1=np.genfromtxt('mumbai_data.csv',delimiter=',')
 data2=np.genfromtxt('mumbai_unlock.csv',delimiter=',')
 value1=data1[1:, 1:]
 value2=data2[1:, 1:]
-label=np.array([['Infected(Unlock)', 'Infected(Lock)', 'Positivity Rate(Lock)', 'Positivity Rate(Unlock)']])
+label=np.array([['Infected(UnLock)', 'Infected(Lock)', 'Positivity Rate(Lock)', 'Positivity Rate(UnLock)']])
 merge=np.zeros((8,5), dtype=object)
 merge[:,0]=data[:,0]
 merge[0,1:]=label
