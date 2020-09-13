@@ -5,3 +5,5 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.grou
 https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html
 https://numpy.org/doc/stable/reference/generated/numpy.vectorize.html
 https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.vq.kmeans2.html
