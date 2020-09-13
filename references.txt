@@ -1,0 +1,7 @@
+References:
+https://www.datacamp.com/community/tutorials/argument-parsing-in-python
+https://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html
+https://numpy.org/doc/stable/reference/generated/numpy.vectorize.html
+https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html
